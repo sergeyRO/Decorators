@@ -1,0 +1,3 @@
+{'data': '2022-08-12 22:28:29.218959', 'func': <function search_shelf at 0x000001AC7F9FB520>, 'args': ('11-2',), 'result': 'Документ находится на полке 3'}
+{'data': '2022-08-12 22:28:34.692860', 'func': <function search_shelf at 0x000001AC7F9FB520>, 'args': ('5',), 'result': 'Данный документ отсутствует!'}
+{'data': '2022-08-12 22:28:50.678358', 'func': <function search_shelf at 0x000001AC7F9FB520>, 'args': ('10006',), 'result': 'Документ находится на полке 2'}
